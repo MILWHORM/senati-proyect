@@ -8,5 +8,6 @@
 <body>
     <h1>Bievenidos</h1>
     <h1>Senati2 -2023</h1>
+    <button>Iniciar</button>
 </body>
 </html>
